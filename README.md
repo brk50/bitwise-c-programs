@@ -29,12 +29,10 @@ Welcome to the ultimate bitwise playground! This repository contains a collectio
 ---
 
 ## ▶️ How to Compile and Run
-### compile the code
+
+### compile and Run in Codespaces or Terminal:
 ```bash
 make all
-
-### Run in Codespaces or Terminal:
-```bash
 make run
 ```
 
