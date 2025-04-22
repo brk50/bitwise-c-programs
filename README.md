@@ -55,3 +55,5 @@ Stay tuned and contribute if you’d like to collaborate!
 
 ## 📬 Feedback & Collaboration
 Feel free to raise issues or submit pull requests. Let’s learn and grow together!
+
+[![Run on Replit](https://replit.com/badge/github/brk50/bitwise-c-programs)](https://replit.com/new/github/brk50/bitwise-c-programs)
