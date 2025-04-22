@@ -29,9 +29,9 @@ Welcome to the ultimate bitwise playground! This repository contains a collectio
 ---
 
 ## ▶️ How to Compile and Run
+### compile the code
 ```bash
 make all
-
 
 ### Run in Codespaces or Terminal:
 ```bash
